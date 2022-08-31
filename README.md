@@ -202,7 +202,7 @@ Now `README.md` is moved from changes not staged for commit to changes that will
 When you are ready to commit, use
 
 ```sh
-> git commit -m "I wrote DONE at the end of README.md"
+>
 ```
 
 The `-m` option is a message that we associate to the changes we commit. You can leave out the `-m` option, then `git` will open an editor to get the commit message, but you cannot leave out a message.
