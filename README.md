@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8297629&assignment_repo_type=AssignmentRepo)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assigngit ment_repo_id=8297629&assignment_repo_type=AssignmentRepo)
 # Introduction to Git and GitHub
 
 Version control, Git, and GitHub are, each on their own, larger topics than we can handle in this class, but they are each such essential tools that you must learn how to use them. When it comes to programming, the first two, and to a lesser degree the third, are vital for handling any non-trivial project safely and efficiently. Beyond programming, any kind of project where you need to work structured and disciplined with data and processes that can vary over time will benefit greatly from these tools or tools like them.
@@ -202,7 +202,7 @@ Now `README.md` is moved from changes not staged for commit to changes that will
 When you are ready to commit, use
 
 ```sh
-> git commit -m "I wrote DONE at the end of README.md"
+>
 ```
 
 The `-m` option is a message that we associate to the changes we commit. You can leave out the `-m` option, then `git` will open an editor to get the commit message, but you cannot leave out a message.
@@ -375,3 +375,6 @@ This all sounds terribly complicated, but it becomes second nature when you have
 ## Exercise 1:
 
 Write DONE on the last line. (This is currently the last line, so add a line below it; don't forget to add a newline after DONE.)
+
+DONE
+
